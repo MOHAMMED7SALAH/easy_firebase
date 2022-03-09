@@ -1,5 +1,13 @@
 # easy_fluttefir
 
+Resources : 
+
+https://www.youtube.com/watch?v=dIK5MNvaxeY
+
+https://firebase.flutter.dev/docs/cli/
+
+https://github.com/Flutter-ui-dev/Flutter-ui-dev/tree/main/add-firebase-to-flutter
+
 A new Flutter project.
 
 ## Getting Started
